@@ -7,6 +7,9 @@
 <h2 style="text-align:justify">
 	Where to download Tor for Windows<br>
 </h2>
+<p style="text-align:justify">	
+	##pip install request getpass stem pysocks 
+</p>	
 <p style="text-align:justify">
 	If you need a browser with Tor, that is, if you are sufficient that you can have another IP when surfing the Internet or want to bypass regional restriction, then you need <strong>Tor Browser</strong>, download it from the <a href="https://www.torproject.org/download/download" target="_blank">official site</a>. There already is everything you need for anonymous surfing in the web and everything is already set up.
 </p>
